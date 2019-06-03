@@ -1,11 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gochi Hand:400');
+/*@import url('https://fonts.googleapis.com/css?family=Merriweather:700');*/
 @font-face {
   font-family: 'Merriweather';
   font-display: auto;
   font-weight: 700;
   src: local('Merriweather'), url(https://fonts.googleapis.com/css?family=Merriweather);
 }
-@import url('https://fonts.googleapis.com/css?family=Gochi Hand:400');
-/*@import url('https://fonts.googleapis.com/css?family=Merriweather:700');*/
 html {
      position: relative;
      min-height: 100%;
