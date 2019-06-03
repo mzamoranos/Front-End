@@ -4,8 +4,10 @@
 @font-face {
   font-family: 'Merriweather';
   font-display: auto;
-  font-weight: 700;
   src: local('Merriweather'), url(https://fonts.googleapis.com/css?family=Merriweather) format('woff');
+  src: local('Gochi'), url(https://fonts.googleapis.com/css?family=Gochi) format('woff');
+  font-weight: normal;
+  font-style:normal;
 }
 html {
      position: relative;
