@@ -6,7 +6,7 @@
   font-display: auto;
   src: local('Merriweather'), url(https://fonts.googleapis.com/css?family=Merriweather);
   font-weight: 700;
-  font-style:normal;
+  font-style:serif;
 }
 /*
 @font-face {
@@ -14,7 +14,7 @@
   font-display: auto;
   src: local('Gochi'), url(https://fonts.googleapis.com/css?family=Gochi Hand);
   font-weight: 400;
-  font-style:normal;
+  font-style:cursive;
 }*/
 html {
      position: relative;
@@ -27,7 +27,7 @@ body {
     background: linear-gradient(to bottom, #bada55, #c0ffee);
 }
 h1, h2 {
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather';
     line-height: 1.1em;
     text-align: center;
     /*margin-bottom: 1.5rem;*/
@@ -43,7 +43,7 @@ h4 {
 }
 .logo {
     text-align: center;
-    font-family: 'Gochi Hand', cursive;
+    font-family: 'Gochi Hand';
     font-size: 1.8rem;
 }
 #circulo {
@@ -55,7 +55,7 @@ h4 {
     background: #1e7404;
 }
 p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather';
     font-size: 1.1rem;
     margin-bottom: 1rem;
 }
