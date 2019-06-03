@@ -27,7 +27,7 @@ body {
     background: linear-gradient(to bottom, #bada55, #c0ffee);
 }
 h1, h2 {
-    font-family: 'Merriweather';
+    font-family: Merriweather;
     line-height: 1.1em;
     text-align: center;
     /*margin-bottom: 1.5rem;*/
@@ -55,7 +55,7 @@ h4 {
     background: #1e7404;
 }
 p {
-    font-family: 'Merriweather';
+    font-family: Merriweather;
     font-size: 1.1rem;
     margin-bottom: 1rem;
 }
