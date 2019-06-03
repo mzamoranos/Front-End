@@ -4,9 +4,15 @@
 @font-face {
   font-family: 'Merriweather';
   font-display: auto;
-  src: local('Merriweather'), url(https://fonts.googleapis.com/css?family=Merriweather) format('woff');
-  src: local('Gochi'), url(https://fonts.googleapis.com/css?family=Gochi) format('woff');
-  font-weight: normal;
+  src: local('Merriweather'), url(https://fonts.googleapis.com/css?family=Merriweather);
+  font-weight: 700;
+  font-style:normal;
+}
+@font-face {
+  font-family: 'Gochi';
+  font-display: auto;
+  src: local('Gochi'), url(https://fonts.googleapis.com/css?family=Gochi);
+  font-weight: 400;
   font-style:normal;
 }
 html {
