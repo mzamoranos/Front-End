@@ -1,6 +1,6 @@
 
-@import url('https://fonts.googleapis.com/css?family=Gochi Hand:400');
-/*@import url('https://fonts.googleapis.com/css?family=Merriweather:700');*/
+/*@import url('https://fonts.googleapis.com/css?family=Gochi Hand:400');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:700');*/
 @font-face {
   font-family: 'Merriweather';
   font-display: swap;
@@ -8,14 +8,14 @@
   font-weight: 700;
   font-style:serif;
 }
-/*
+
 @font-face {
   font-family: 'Gochi Hand';
-  font-display: auto;
+  font-display: swap;
   src: local('Gochi'), url(https://fonts.googleapis.com/css?family=Gochi Hand);
   font-weight: 400;
   font-style:cursive;
-}*/
+}
 html {
      position: relative;
      min-height: 100%;
