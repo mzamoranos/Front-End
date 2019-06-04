@@ -3,7 +3,7 @@
 /*@import url('https://fonts.googleapis.com/css?family=Merriweather:700');*/
 @font-face {
   font-family: 'Merriweather';
-  font-display: auto;
+  font-display: swap;
   src: local('Merriweather'), url(https://fonts.googleapis.com/css?family=Merriweather);
   font-weight: 700;
   font-style:serif;
